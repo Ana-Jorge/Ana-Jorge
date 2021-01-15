@@ -16,5 +16,4 @@ Sou a Ana, uma entusiasta no mundo da programação, :computer: amante da Inteli
 
 **Contato**
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/ana-jessica-jorge/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anadegj@gmail.com)](anadegj@gmail.com@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/ana-jessica-jorge/)
