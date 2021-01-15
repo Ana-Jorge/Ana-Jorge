@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu Github! :smile:
+# Seja bem vindo(a) ao meu Github! :smile:
 
 Técnica em mecatrônica | Estudante de engenharia elétrica 
 
