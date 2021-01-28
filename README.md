@@ -4,7 +4,7 @@ Técnica em mecatrônica | Estudante de engenharia elétrica
 
 Sou a Ana, uma entusiasta no mundo da programação, :computer: amante da Inteligência artificial e de um bom café :heart_eyes::coffee: . Estou iniciando meus estudos nessa área, para acompanhar o que estou aprendendo, siga meu perfil e fique à vontade. 
 
-:star2: Never stop learning!!
+:rocket: Never stop learning!!
 
 
 
